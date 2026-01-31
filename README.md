@@ -1,14 +1,14 @@
 # Instagram-SwiftUI
-用 SwiftUI 製作 Instagrm Clone 介面，專案內容只包括 UI 部分，意在嘗試 SwiftUI 相關功能。
+Instagram Clone interface built with SwiftUI. This project focuses solely on the UI, aiming to explore and experiment with SwiftUI features.
 
 
-ipad Demo 錄製影片連結：https://youtube.com/shorts/nxQp0P-D2AE?si=YGmLqEW26Vs4_trB
+ipad Demo：https://youtube.com/shorts/nxQp0P-D2AE?si=YGmLqEW26Vs4_trB
 
 
-iphone Demo 錄製影片連結：https://youtube.com/shorts/tMvHLSySm-0?si=f7rtRZC1SzXgkWyz
+iphone Demo：https://youtube.com/shorts/tMvHLSySm-0?si=f7rtRZC1SzXgkWyz
 
 
-iphone Demo 錄製影片連結（深色模式）：https://youtube.com/shorts/kJyOG8DA9l8?si=qSvY2ndnE59-hz4k
+iphone Demo（dark mode）：https://youtube.com/shorts/kJyOG8DA9l8?si=qSvY2ndnE59-hz4k
 
 
-Auth 介面錄製影片連結：https://youtube.com/shorts/bTszNEwizA0?feature=share
+Auth UI Demo：https://youtube.com/shorts/bTszNEwizA0?feature=share
